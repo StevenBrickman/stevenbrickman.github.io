@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Learn Ruby the Hard Way Exercise 2"
+date: 2022-02-13 5:55pm
+categories: jekyll update
+---
+```
+
+puts "I could have code like this."
+puts #"this will not run."
+puts "This will run."
+```

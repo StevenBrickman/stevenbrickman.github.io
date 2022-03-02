@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Learn Ruby the Hard Way Exercise 12"
+date: 2022-02-17 
+categories: jekyll update
+---
+```
+print "Give me a number:"
+number = gets.chomp.to_i
+
+bigger = number * 100 
+puts "An even bigger number is #{bigger}."
+
+print "Give'st me another number:"
+another = gets.chomp
+number = another.to_i
+
+smaller = number / 100
+puts "A smaller nu
+mber is #{smaller}."
+```

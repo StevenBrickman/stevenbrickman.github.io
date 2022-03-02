@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Learn Ruby the Hard Way Exercise 3"
+date: 2022-02-13 6:00pm
+categories: jekyll update
+---
+```
+puts "I will now count my chickens:"
+#
+puts "Hens #{25 + 30 / 6}"#calculates math
+puts "Roosters #{100 - 25 * 3 % 4}" #calculates math
+#
+puts "Now I will count the eggs:"
+#
+puts 3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6 #calculates math parentheses unnecessary
+#
+puts "Is it true that 3 + 2 < 5 - 7?" #with qoutations just repeats what is written within
+#
+puts 3 + 2 < 5 - 7 #without qoutations does math concludes it is false
+
+puts "What is 3 + 2? #{3 + 2}" #qoutations just repeats what is written
+puts "What is 5 - 7? #{5 - 7}" #quotations therefore No math
+
+puts "Oh, that's why it's false."
+
+puts "How about some more."
+
+puts "Is it greater? #{5 > -2}"
+puts "Is it greater or equal? #{5 >= -2}"
+puts "Is it less or equal? #{5 <= -2}"
+```

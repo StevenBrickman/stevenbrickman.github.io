@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Learn Ruby the Hard Way Exercise 13"
+date: 2022-02-17
+categories: jekyll update
+---
+```
+first, second, third = ARGV
+
+puts "Your first variable is: #{first}"
+puts "Your second variable is: #{second}"
+puts "Your third variable is: #{third}"
+```
